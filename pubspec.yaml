@@ -1,7 +1,7 @@
 name: flutter_app_name_changer
 description: Package which helps you to rename your app
 version: 0.0.1
-# homepage: https://www.example.com
+homepage: https://github.com/qscr/flutter_app_name_changer
 
 environment:
   sdk: '>=2.17.5 <3.0.0'
